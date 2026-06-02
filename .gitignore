@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 yolov8n.pt
 data/events.jsonl
+data/
